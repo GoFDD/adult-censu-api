@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "age": 32,
+      "education_num": 1,
+      "marital_status": "Never-married",
+      "occupation": "Adm-clerical",
+      "hours_per_week": 40,
+      "capital_gain": 0
+    }
+  ]
+}

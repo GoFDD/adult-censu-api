@@ -1,0 +1,4 @@
+2025-05-28 15:09:39,441 - ERROR - Erro na predição: "['workclass', 'education', 'relationship', 'race', 'sex', 'capital.loss', 'native.country'] not in index"
+2025-05-28 15:11:39,758 - ERROR - Erro na predição: "['workclass', 'education', 'relationship', 'race', 'sex', 'capital.loss', 'native.country'] not in index"
+2025-05-28 15:11:44,610 - ERROR - Erro na predição: "['workclass', 'education', 'relationship', 'race', 'sex', 'capital.loss', 'native.country'] not in index"
+2025-05-28 15:11:45,725 - ERROR - Erro na predição: "['workclass', 'education', 'relationship', 'race', 'sex', 'capital.loss', 'native.country'] not in index"
