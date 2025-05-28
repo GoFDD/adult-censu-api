@@ -12,7 +12,9 @@ http://127.0.0.1:8000/docs
 
 ## Exemplo de Payload da Requisição
 
-Abaixo está um exemplo de payload JSON que pode ser enviado para a API no endpoint `POST /predict`. Cada objeto representa uma pessoa, com características como idade, escolaridade, estado civil, ocupação, horas trabalhadas por semana e ganho de capital. A API retorna `0` (renda <=50K) ou `1` (renda >50K).
+Abaixo está um exemplo de payload JSON que pode ser enviado para a API no endpoint `POST /predict`. 
+
+Cada objeto representa uma pessoa, com características como idade, escolaridade, estado civil, ocupação, horas trabalhadas por semana e ganho de capital. A API retorna `0` (renda <=50K) ou `1` (renda >50K).
 
 ```json
 {
