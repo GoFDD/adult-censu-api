@@ -3,7 +3,9 @@
 Para iniciar a API, execute o comando abaixo:
 
 ```bash
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
+
+Instalação das dependencias, rode no terminal: ( pip install uvicorn fastapi scikit-learn pandas )
 ```
 
 Quando o servidor estiver ativo, acesse a documentação da API em:
